@@ -1,0 +1,26 @@
+name: Sync to 129 Backup Repo
+
+on:
+  push:
+    branches:
+      - main  # 修改为你的默认分支名（main 或 master）
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout source code
+        uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
+          token: ${{ secrets.TARGET_REPO_TOKEN }}
+      
+      - name: Push to backup repo
+        env:
+          GITHUB_TOKEN: ${{ secrets.TARGET_REPO_TOKEN }}
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git remote add backup https://x-access-token:${GITHUB_TOKEN}@github.com/banner129/pdf-video.git
+          git push backup main --force
