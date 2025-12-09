@@ -5,6 +5,7 @@ import { Badge } from "@/components/ui/badge";
 import { Button } from "@/components/ui/button";
 import HappyUsers from "./happy-users";
 import { Hero as HeroType } from "@/types/blocks/hero";
+import { Button as ButtonType } from "@/types/blocks/base";
 import Icon from "@/components/icon";
 import { Link } from "@/i18n/navigation";
 import { cn } from "@/lib/utils";
@@ -133,7 +134,7 @@ function DefaultHero({ hero }: { hero: HeroType }) {
 }
 
 function CompactHero({ hero }: { hero: HeroType }) {
-  const fallbackButtons = [
+  const fallbackButtons: ButtonType[] = [
     {
       title: "Build Website Free Now",
       url: "/#generator",
@@ -145,7 +146,7 @@ function CompactHero({ hero }: { hero: HeroType }) {
     },
   ];
 
-  const buttons =
+  const buttons: ButtonType[] =
     hero.buttons && hero.buttons.length > 0 ? hero.buttons : fallbackButtons;
 
   const metrics =
