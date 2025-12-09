@@ -3,10 +3,10 @@
   "theme": "light",
   "header": {
     "brand": {
-      "title": "ShipFire",
+      "title": "PDF-Video",
       "logo": {
         "src": "/logo.png",
-        "alt": "ShipFire"
+        "alt": "PDF-Video"
       },
       "url": "/"
     },
@@ -25,24 +25,23 @@
     "show_locale": true
   },
   "hero": {
-    "title": "ShipFire: Build Your SaaS Website in 3 Minutes",
-    "highlight_text": "Lightning Fast",
-    "description": "A free website builder designed for global indie developers. Launch your product in 48 hours with zero code and built-in AI optimization tools.",
+    "title": "AI-Powered PDF to Video Generator: Create HD Videos Fast",
+    "highlight_text": "Free & Online",
+    "description": "Transform your PDF to video in just 3 steps with our AI-powered converter. Free conversion for up to 5 pages, no registration required. AI automatically generates narration and animations, perfect for teaching, social media, and marketing. Export HD MP4 in 3 minutes.",
     "announcement": {
-      "label": "Limited Time",
-      "title": "Free Forever",
-      "url": "/#features"
+      "label": "New Feature",
+      "title": "Batch Processing Support"
     },
     "images": [
       {
         "src": "/imgs/features/1.webp",
-        "alt": "ShipFire Website Builder Example 1",
-        "title": "Build Your SaaS Website"
+        "alt": "PDF to Video Conversion Preview",
+        "title": "PDF to Video Example"
       },
       {
         "src": "/imgs/features/1.webp",
-        "alt": "ShipFire Website Templates Example 2",
-        "title": "50+ Professional Templates"
+        "alt": "PDF Pages to Animated Video",
+        "title": "Smooth Page Animation"
       }
     ],
     "layout": "left-image-right-content",
@@ -50,7 +49,7 @@
     "enable_carousel": true,
     "buttons": [
       {
-        "title": "Build Saas Free Now",
+        "title": "Convert PDF to Video",
         "icon": "RiMagicLine",
         "url": "/#generator",
         "target": "_self",
@@ -64,18 +63,18 @@
       }
     ],
     "metrics": [
-      "FREE",
-      "Trusted by 50,000+ developers"
+      "The go-to PDF to video tool for 50,000+ creators",
+      "Complete document-to-video transformation in 3 minutes"
     ],
     "stats": [
       {
         "value": "50,000+",
-        "label": "Active Developers",
+        "label": "Active Users",
         "icon": "RiUserLine"
       },
       {
-        "value": "200,000+",
-        "label": "Websites Built",
+        "value": "1.2M+",
+        "label": "Videos Generated",
         "icon": "RiImageLine"
       }
     ],
@@ -83,38 +82,38 @@
     "show_badge": true
   },
   "branding": {
-    "title": "Powered by cutting-edge AI technology",
+    "title": "Powered by Advanced AI Video Technology",
     "items": [
       {
-        "title": "OpenAI",
+        "title": "AI Animation Engine",
         "image": {
           "src": "/imgs/logos/nextjs.svg",
-          "alt": "OpenAI"
+          "alt": "AI Animation"
         }
       },
       {
-        "title": "Computer Vision",
+        "title": "OCR & Text Extraction",
         "image": {
           "src": "/imgs/logos/react.svg",
-          "alt": "Computer Vision"
+          "alt": "OCR Processing"
         }
       },
       {
-        "title": "Neural Networks",
+        "title": "Neural Rendering",
         "image": {
           "src": "/imgs/logos/tailwindcss.svg",
-          "alt": "Neural Networks"
+          "alt": "Neural Rendering"
         }
       },
       {
-        "title": "Machine Learning",
+        "title": "Speech Synthesis",
         "image": {
           "src": "/imgs/logos/shadcn.svg",
-          "alt": "Machine Learning"
+          "alt": "AI Voice Over"
         }
       },
       {
-        "title": "Cloud Processing",
+        "title": "Cloud Video Processing",
         "image": {
           "src": "/imgs/logos/vercel.svg",
           "alt": "Cloud Processing"
@@ -124,72 +123,72 @@
   },
   "introduce": {
     "name": "introduce",
-    "title": "What is ShipFire",
-    "label": "OVERVIEW",
-    "description": "A SaaS website-building platform tailored for global-facing developers to help your product reach users worldwide instantly.",
+    "title": "What is PDF to Video?",
+    "label": "INTRODUCTION",
+    "description": "An AI-powered online PDF to video converter that instantly transforms static documents into dynamic videos with narration, zero technical skills required, ready to experience now.",
     "image": {
       "src": "/imgs/features/1.webp"
     },
     "items": [
       {
-        "title": "ShipFire Free Website Builder",
-        "description": "A completely free online building system—no coding required. It integrates key modules such as payment systems, user management, and analytics. The drag-and-drop interface lets you focus on your product while we handle the tech. Go live in just 3 minutes.",
+        "title": "Smart PDF to AI Video Converter",
+        "description": "Upload any PDF document and our AI-powered PDF to video tool automatically analyzes content structure, extracts key information, and generates smooth video scripts and scenes. Perfect for teaching materials, training manuals, and marketing content for more efficient information delivery. Documents up to 5 pages convert free, with flexible pricing for larger files.",
         "icon": "RiDownloadLine",
         "image": {
           "src": "/imgs/features/1.webp",
-          "alt": "Core Resources Library"
+          "alt": "Free PDF to Video"
         },
         "buttons": [
           {
-            "title": "Start Creating",
+            "title": "Convert Now",
             "url": "/#generator",
             "variant": "default"
           },
           {
-            "title": "See Pricing",
-            "url": "/#pricing",
+            "title": "See Features",
+            "url": "/#feature",
             "variant": "outline"
           }
         ]
       },
       {
-        "title": "ShipFire AI Optimization Engine",
-        "description": "Built-in AI analyzes user behavior automatically. The AI assistant provides real-time improvement suggestions that boost conversions by up to 40%. From copywriting to layout tweaks, your site stays in peak marketing condition without hiring a team.",
+        "title": "3-Step PDF to Video Free Experience",
+        "description": "Upload PDF, select AI voiceover, export MP4—the entire PDF to video process takes under 5 minutes. No complex video editing software needed. AI automatically handles duration, transitions, and subtitle sync. Social media creators and teachers can get started easily with our converter.",
         "icon": "RiDownloadLine",
         "image": {
           "src": "/imgs/features/1.webp",
-          "alt": "ShipFire AI optimizing website performance"
+          "alt": "AI Voice Over"
         },
         "buttons": [
           {
-            "title": "Start Creating",
+            "title": "Convert Now",
             "url": "/#generator",
             "variant": "default"
           },
           {
-            "title": "View Pricing",
-            "url": "/#pricing",
+            "title": "View Samples",
+            "url": "/#feature",
             "variant": "outline"
           }
         ]
       },
       {
-        "title": "ShipFire Online One-Click Deployment",
-        "description": "Cloud hosting ensures 99.9% uptime. Global CDN delivers fast access for users worldwide. Automatic SSL, domain binding, and SEO optimization are all included—zero technical barrier so founders can focus fully on their product.",
+        "title": "Efficient PDF to Video Generator",
+        "description": "Supports multi-language voiceovers and custom voice cloning, automatically generating HD visuals and dynamic charts. Whether it's a 10-page brief or 50-page lecture notes, our PDF to video generator converts everything into cohesive video content while preserving original layout and visual effects, suitable for all professional scenarios.",
         "icon": "RiDownloadLine",
         "image": {
           "src": "/imgs/features/1.webp",
-          "alt": "ShipFire deploying website to production"
+          "alt": "Video Export"
         },
         "buttons": [
           {
-            "title": "Start Creating",
+            "title": "Convert Now",
             "url": "/#generator",
             "variant": "default"
           },
           {
-            "title": "See Pricing",
-            "url": "/#pricing",
+            "title": "See Output Options",
+            "url": "/#feature",
             "variant": "outline"
           }
         ]
@@ -198,54 +197,53 @@
   },
   "benefit": {
     "name": "benefit",
-    "title": "Why Developers Choose ShipFire",
+    "title": "Why Choose Our PDF to Video Tool?",
     "label": "Core Benefits",
-    "description": "Zero-cost startup with professional-grade features so your SaaS wins from day one.",
+    "description": "Combining AI technology with flexible pricing to provide creators and educators with the fastest, most professional PDF to video solution.",
     "items": [
       {
-        "title": "Truly Zero Cost",
-        "description": "ShipFire is 100% free with no hidden fees. Features that cost $49–299/month elsewhere—unlimited pages, user management, payment integration, analytics dashboards—are all unlocked here. Ideal for indie developers, saving thousands in early costs so you can invest in product and marketing instead.",
+        "title": "Flexible Pay-As-You-Go Pricing",
+        "description": "PDFs up to 5 pages convert completely free with no registration or login required to experience full PDF to video functionality. Documents exceeding 5 pages are flexibly billed per page with transparent, reasonable pricing. Whether you're an occasional individual user or an enterprise client needing batch conversions, you'll find a plan that fits without paying for unnecessary features.",
         "icon": "RiStarLine",
         "image": {
           "src": "/imgs/features/1.webp",
-          "alt": "ShipFire free website builder interface"
+          "alt": "Free PDF Tool"
         },
         "buttons": [
           {
-            "title": "Create Free",
+            "title": "Convert Free",
             "url": "/#generator",
             "variant": "default"
           }
-          
         ]
       },
       {
-        "title": "Lightning Fast",
-        "description": "From creating an account to publishing your website takes only 3 minutes. Choose from 50+ templates optimized for SaaS, customize, and publish. Compared to the 2–4 weeks required for traditional development, ShipFire helps you enter the market a month earlier. Automated workflows handle updates and backups so you can focus on growth.",
+        "title": "3-Minute Ultra-Fast Generation",
+        "description": "Traditional video production takes hours or even days. Our AI-powered PDF to video engine compresses this process to under 3 minutes. Processing starts immediately after upload, automatically recognizing document structure, generating scene layouts, matching background music and AI voiceover. Social media creators can rapidly batch-produce content while teachers can prepare teaching videos 10 minutes before class.",
         "icon": "RiGiftLine",
         "image": {
           "src": "/imgs/features/1.webp",
-          "alt": "ShipFire lightning fast deployment"
+          "alt": "Simple Video Creation"
         },
         "buttons": [
           {
-            "title": "Create Free",
+            "title": "Convert Free",
             "url": "/#generator",
             "variant": "default"
           }
         ]
       },
       {
-        "title": "Optimized for Global Expansion",
-        "description": "Deeply understands the needs of global-facing developers. Supports 20+ languages with auto-translation, multi-currency payments, and GDPR-compliant data handling. Integrated Google Analytics and Meta Pixel help you track overseas performance. With servers across 15 regions, users in the US and Europe experience near-local speeds.",
+        "title": "Professional HD Output",
+        "description": "Outputs 4K resolution videos supporting multiple aspect ratios (16:9/9:16/1:1) for cross-platform compatibility. The AI automatically optimizes text clarity and visual hierarchy, generating videos with smooth transitions, professional voiceovers, and accurate subtitles. Whether for YouTube education, Instagram promotion, or corporate training, our PDF to video converter delivers first-class visual quality.",
         "icon": "RiSpeedLine",
         "image": {
           "src": "/imgs/features/1.webp",
-          "alt": "ShipFire global expansion features"
+          "alt": "Use Cases"
         },
         "buttons": [
           {
-            "title": "Create Free",
+            "title": "Convert Free",
             "url": "/#generator",
             "variant": "default"
           }
@@ -256,22 +254,22 @@
   "usage": {
     "name": "usage",
     "label": "HOW TO USE",
-    "title": "How to Build a ShipFire Website",
-    "description": "Create a professional website in three steps—fully online in just 180 seconds.",
+    "title": "How to Use PDF to Video Converter?",
+    "description": "Three simple steps to complete your PDF to video conversion: upload document, AI auto-processes, export and share—no video editing experience required, start now.",
     "items": [
       {
-        "title": "Select Template",
-        "description": "Browse 50+ carefully crafted SaaS templates covering tools, services, communities, and more. Each is optimized for conversions—just pick and start customizing.",
+        "title": "Upload PDF Document",
+        "description": "Drag and drop or click to upload your PDF file. Supports courseware, reports, manuals, and various document formats. Free PDF to video conversion for documents up to 5 pages, files up to 50MB supported.",
         "icon": "RiEditLine"
       },
       {
-        "title": "Customize Your Content",
-        "description": "Use the ShipFire Online Editor to modify text, images, and colors. The AI assistant suggests copy and layout based on your product type. Preview changes instantly.",
+        "title": "AI Smart Video Generation",
+        "description": "Select AI voiceover language and voice style, then generate with one click. System automatically extracts content, creates scenes, adds animation effects and background music—no manual editing needed.",
         "icon": "RiPaletteLine"
       },
       {
-        "title": "Publish with One Click",
-        "description": "Click Publish to automatically configure domain binding, SSL certificates, and CDN deployment. Your website goes live instantly and updates are equally effortless.",
+        "title": "Export and Share",
+        "description": "Preview the generated video, confirm accuracy, then export as MP4 format. Share directly to YouTube, social media, or embed in online course platforms.",
         "icon": "RiSettings3Line"
       }
     ]
@@ -279,38 +277,83 @@
   "feature": {
     "name": "feature",
     "label": "FEATURES",
-    "title": "ShipFire Core Features Overview",
-    "description": "Enterprise-level capabilities made simple for indie developers, powering your product’s growth.",
+    "title": "Powerful Features Make PDF to Video Simpler",
+    "description": "Integrates multiple AI technologies—from content analysis to video output, every stage is optimized to ensure the best conversion quality and user experience.",
     "items": [
       {
-        "title": "Visual Editor",
-        "description": "Drag-and-drop interface with real-time preview. A library of 50+ components allows you to create custom layouts without design skills.",
+        "title": "Multi-Language AI Voiceover",
+        "description": "Offers 40+ language and accent options with natural, fluent AI voice synthesis. Upload your own audio files for personalized voiceovers.",
         "icon": "RiEyeLine"
       },
       {
-        "title": "User Authentication System",
-        "description": "Supports email, Google, GitHub, and more. Automatically manages permissions and subscription tiers. Built-in trial and upgrade flows boost retention by 35%.",
+        "title": "Automatic Scene Generation",
+        "description": "AI intelligently recognizes document structure, automatically creating video scenes and transition effects while maintaining clear content logic and smooth viewing experience.",
         "icon": "RiHdLine"
       },
       {
-        "title": "Payment Integration",
-        "description": "Integrated with Stripe and PayPal. Handles subscription billing, invoices, refunds, and more—freeing you from backend complexity.",
+        "title": "HD Visual Optimization",
+        "description": "Automatically extracts charts, images, and text with optimized display. Outputs 4K resolution videos ensuring crisp, readable text and professional, polished visuals.",
         "icon": "RiLayoutLine"
       },
       {
-        "title": "Analytics Dashboard",
-        "description": "Track user behavior, funnels, and revenue trends in real time. Clear visual charts help you discover growth opportunities and boost ROI by up to 50%.",
+        "title": "Batch Processing Support",
+        "description": "Upload multiple PDF files at once for batch conversion, dramatically improving work efficiency. Perfect for teachers batch-creating course videos or marketing teams rapidly producing content.",
         "icon": "RiStarSLine"
       },
       {
-        "title": "Automatic SEO Optimization",
-        "description": "Generates titles, descriptions, and schema markup automatically. Auto-submits to search engines and optimizes loading speed for higher Google rankings.",
+        "title": "Multi-Platform Format Compatibility",
+        "description": "Supports landscape, portrait, and square output formats perfectly adapted to YouTube, TikTok, Instagram, and other major platforms' specifications.",
         "icon": "RiCloudLine"
       },
       {
-        "title": "Email Marketing Tools",
-        "description": "Built-in email sending for welcome messages, product updates, campaigns, and more. A/B testing helps you discover high-performing copy, increasing open rates by 45%.",
+        "title": "Zero Technical Barrier",
+        "description": "No software download or complex operations needed—access directly through browser. Clean, intuitive interface allows beginners to complete their first video in 3 minutes.",
         "icon": "RiShareLine"
+      }
+    ]
+  },
+  "testimonial": {
+    "name": "testimonial",
+    "label": "Testimonials",
+    "title": "What Users Say About Our PDF to Video?",
+    "description": "Real feedback and usage experiences shared by 50,000+ users worldwide.",
+    "icon": "RiThumbUpLine",
+    "items": [
+      {
+        "title": "Sarah Chen",
+        "label": "High School Physics Teacher",
+        "description": "I frequently need to convert courseware into videos for student preview. The free PDF to video conversion for quizzes under 5 pages is very convenient, and pricing for longer lectures is reasonable too. Recording one class video used to take 2 hours—now just 5 minutes with this converter. Students say the results are much better than PPT.",
+        "image": { "src": "/imgs/users/1.png" }
+      },
+      {
+        "title": "Mark Rivera",
+        "label": "YouTube Creator",
+        "description": "As a social media creator, I need to produce content quickly. This PDF to video converter lets me turn articles into videos for publishing—views increased 62%. Transparent pricing and free trial for small documents is very user-friendly. The PDF to video quality is outstanding.",
+        "image": { "src": "/imgs/users/2.png" }
+      },
+      {
+        "title": "Li Ming",
+        "label": "Corporate Trainer",
+        "description": "Our company training manual has 80+ pages. Per-page pricing is much cheaper than hiring someone to make videos. Using this PDF to video AI tool to convert to video improved new employee onboarding efficiency by 40%. AI voiceover is natural and subtitles are accurate.",
+        "image": { "src": "/imgs/users/3.png" }
+      },
+      {
+        "title": "Emma Watson",
+        "label": "Marketing Manager",
+        "description": "I use this tool to convert PDF to video for product manuals into promotional videos. Free for short docs is perfect for testing. After confirming good results, paying for longer docs is worthwhile too. Clients prefer watching videos—inquiry conversion rate increased 35%.",
+        "image": { "src": "/imgs/users/4.png" }
+      },
+      {
+        "title": "Chen Xiao",
+        "label": "Online Course Instructor",
+        "description": "This PDF to video generator helps me quickly convert lecture notes into video courses. Batch processing is so time-saving—uploading 10 files for simultaneous conversion. The output 4K video quality fully meets professional standards.",
+        "image": { "src": "/imgs/users/5.png" }
+      },
+      {
+        "title": "James Kim",
+        "label": "Independent Blogger",
+        "description": "From PDF to video AI conversion to publishing takes just minutes. I can now produce 3-4 high-quality video content pieces daily. Multi-platform format support means I don't need to re-edit—work efficiency increased 3x with this amazing converter.",
+        "image": { "src": "/imgs/users/6.png" }
       }
     ]
   },
@@ -318,7 +361,7 @@
     "name": "faq",
     "label": "FAQ",
     "title": "Frequently Asked Questions",
-    "description": "Can't find the answer to your question? Contact us for help.",
+    "description": "Find detailed answers to common questions about the PDF to Video tool.",
     "buttons": [
       {
         "title": "Contact Us",
@@ -328,95 +371,58 @@
     ],
     "items": [
       {
-        "title": "Is ShipFire free?",
-        "description": "Yes. ShipFire offers a permanently free plan with unlimited pages, user management, payment integration, analytics, and more. No credit card required and no hidden fees. Full commercial use is allowed."
+        "title": "How is the PDF to Video converter priced?",
+        "description": "PDFs up to 5 pages convert completely free with no registration or login required. Documents exceeding 5 pages are flexibly billed per page with transparent pricing. All users can first experience basic PDF to video features for free, then choose to pay for converting longer documents after confirming satisfaction."
       },
       {
-        "title": "Which platforms does ShipFire Online support?",
-        "description": "Supports custom domains, Vercel, Netlify, and other major hosting platforms. A free *.shipfire.app subdomain is available for testing. SSL and CDN are configured automatically for global performance."
+        "title": "What PDF formats and file sizes are supported?",
+        "description": "Supports all standard PDF documents including courseware, reports, manuals, and ebooks. Maximum single file size is 50MB with no page limit. Text-selectable PDFs are recommended for best PDF to video conversion results, though scanned PDFs can also be processed."
       },
       {
-        "title": "Can I use ShipFire without technical experience?",
-        "description": "Absolutely. ShipFire is designed for non-technical users with a drag-and-drop editor, tutorials, and an AI assistant that provides real-time guidance. Thousands of beginners have built websites with an average learning time under 30 minutes."
+        "title": "Does using PDF to Video Free require technical background?",
+        "description": "Not at all. The interface is clean and intuitive—just upload, select voiceover, and click generate in three steps. No video editing software learning needed. New users can complete their first PDF to video conversion in an average of 3 minutes with fully automated processing."
       },
       {
-        "title": "Can I use ShipFire websites for commercial purposes?",
-        "description": "Yes. Websites built with ShipFire are fully commercial-ready, including selling products, subscriptions, and ads. There are no licensing restrictions or revenue sharing."
+        "title": "Can generated videos be used commercially?",
+        "description": "Yes. All videos generated through our PDF to video tool are granted full commercial usage rights. You can use them for YouTube monetization, corporate training, paid courses, advertising and marketing, or any commercial scenario—both free and paid versions enjoy the same rights."
       },
       {
-        "title": "Can I export or migrate my ShipFire website?",
-        "description": "Yes, you can export full website code including HTML, CSS, and config files. You can migrate to your own server anytime. User and order data can also be exported as CSV for full data ownership."
+        "title": "How long does PDF to Video conversion take?",
+        "description": "Most PDFs complete conversion within 3 minutes. Specific time depends on document page count and complexity: 5-page documents take about 2 minutes, 20-page documents about 5 minutes, 50-page documents about 8 minutes. AI automatically handles all scenes, voiceovers, and animations for your PDF to video output."
       },
       {
-        "title": "What can ShipFire’s AI features do?",
-        "description": "The AI assistant optimizes copy, suggests layout improvements, analyzes user behavior, and predicts conversion bottlenecks. It supports SEO optimization, A/B test generation, and email content creation—trained on data from 50,000+ sites with 92% recommendation accuracy."
-      }
-    ]
-  },
-  "testimonial": {
-    "name": "testimonial",
-    "label": "Testimonials",
-    "title": "What Developers Say About ShipFire",
-    "description": "See how global developers are using ShipFire to accelerate their business.",
-    "icon": "RiThumbUpLine",
-    "items": [
-      {
-        "title": "Leo",
-        "label": "Streetwear Brand Owner",
-        "description": "I used to spend three weeks building a site, only to get less than 2% conversion. With ShipFire Free, I rebuilt everything in 3 hours and hit 8.5%. Now all my time goes to product development.",
-        "image": {
-          "src": "/imgs/users/1.png"
-        }
+        "title": "What voiceover languages does this PDF to Video AI support?",
+        "description": "Supports 40+ languages and multiple accents including English, Chinese, Spanish, French, and other mainstream languages. Choose between male and female voices with natural, fluent AI voiceover. Also supports uploading your own recordings or using voice cloning features."
       },
       {
-        "title": "Mei",
-        "label": "Social Media Manager",
-        "description": "Our team has no front-end devs and Webflow was too expensive. Switching to ShipFire saved us $3,600 a year and the AI optimization identified 5 issues that boosted our MRR by 38%.",
-        "image": {
-          "src": "/imgs/users/2.png"
-        }
+        "title": "Can I customize video style and output format?",
+        "description": "Yes. Supports background music selection, scene duration adjustment, and text display modification. Output formats include landscape (16:9), portrait (9:16), and square (1:1). Export MP4 files as needed for different platforms from our PDF to video converter."
       },
       {
-        "title": "Robin",
-        "label": "Visual Design Instructor",
-        "description": "The AI suggestions are my favorite. Last week it recommended a pricing page tweak—after applying it our paid conversion jumped from 4% to 6.2%, generating an extra $2,000/month.",
-        "image": {
-          "src": "/imgs/users/3.png"
-        }
+        "title": "What content does PDF to Video Generator process best?",
+        "description": "Documents with clear structure convert best, such as presentations, training materials, teaching notes, and product manuals. PDFs containing charts, images, and titles convert to videos with richer visual effects using our PDF to video tool. Plain text documents also convert well—recommend testing with 5 free pages first."
       },
       {
-        "title": "Emma Taylor",
-        "label": "Content Creator",
-        "description": "I built 12 landing pages for clients using ShipFire, each in about 20 minutes. The built-in A/B testing and analytics simplified optimization—client ROI improved by 55%.",
-        "image": {
-          "src": "/imgs/users/6.png"
-        }
+        "title": "What's the difference between PDF to Video and traditional video editing software?",
+        "description": "Traditional video editors require manual timeline editing, scene transitions, and technical skills. Our PDF to video converter automates the entire process—AI handles page animation, text extraction, voiceover sync, and scene generation. You simply upload and export. It's specifically designed for document-to-video conversion, making it 10x faster than manual editing for PDF content."
       },
       {
-        "title": "Carlos Martinez",
-        "label": "T-Shirt Designer",
-        "description": "I sell online courses and WordPress plugins always caused conflicts. ShipFire tripled my site speed and made checkout smoother. Refunds dropped by 70%—students love the experience.",
-        "image": {
-          "src": "/imgs/users/4.png"
-        }
+        "title": "How can I improve my PDF to Video conversion quality?",
+        "description": "For best results with PDF to video conversion, use high-resolution PDFs with clear fonts and well-organized layouts. Include visual elements like charts and images to enhance engagement. Choose appropriate AI voice tone matching your content style. Test with the free 5-page option first to optimize settings before converting longer documents."
       },
       {
-        "title": "Jasmine Lee",
-        "label": "Event Organizer",
-        "description": "As a developer I didn’t think I needed a builder, but ShipFire is free and surprisingly powerful. I used it to validate a new startup idea: went from concept to live MVP in 4 hours.",
-        "image": {
-          "src": "/imgs/users/5.png"
-        }
+        "title": "Does PDF to Video support collaborative team workflows?",
+        "description": "Yes. Multiple team members can use the PDF to video platform simultaneously. Export videos in consistent formats for brand uniformity. The batch processing feature allows teams to convert multiple training manuals, sales decks, or course materials at scale. All videos maintain the same professional quality standards, perfect for enterprise content production workflows."
       }
     ]
   },
   "cta": {
     "name": "cta",
-    "title": "Start Building with ShipFire Today",
-    "description": "No credit card needed. No technical skills required. Build a professional site in 3 minutes. Join 50,000+ global developers and reach users worldwide. All core features are free forever.",
+    "title": "Experience PDF to Video Now—Create Professional Videos in 3 Minutes",
+    "description": "Free PDF to video conversion for documents up to 5 pages, no registration, no download. Upload your PDF document and let AI generate HD videos for you. Start now and experience the fastest document-to-video solution!",
     "buttons": [
       {
-        "title": "Start Creating Now",
+        "title": "Convert PDF to Video",
         "icon": "RiGiftLine",
         "url": "/#generator",
         "target": "_self",
@@ -427,15 +433,15 @@
   "footer": {
     "name": "footer",
     "brand": {
-      "title": "ShipFire",
-      "description": "ShipFire is dedicated to helping global indie developers quickly build professional SaaS websites with zero code, providing free, high-quality website building solutions with built-in AI optimization tools.",
+      "title": "PDF-Video",
+      "description": "An AI-powered online tool that transforms PDF documents into high-quality videos with animations, AI narration, and multi-format exports.",
       "logo": {
         "src": "/logo.png",
-        "alt": "ShipFire"
+        "alt": "PDF-Video"
       },
       "url": "/"
     },
-    "copyright": "© 2025 • ShipFire. All rights reserved.",
+    "copyright": "© 2025 • PDF-Video. All rights reserved.",
     "nav": {
       "items": [
         {
@@ -462,25 +468,25 @@
         {
           "title": "X",
           "icon": "RiTwitterXFill",
-          "url": "https://x.com/shipfire",
+          "url": "https://x.com/",
           "target": "_blank"
         },
         {
           "title": "Github",
           "icon": "RiGithubFill",
-          "url": "https://github.com/shipfire",
+          "url": "https://github.com/",
           "target": "_blank"
         },
         {
           "title": "Discord",
           "icon": "RiDiscordFill",
-          "url": "https://discord.gg/shipfire",
+          "url": "https://discord.gg/",
           "target": "_blank"
         },
         {
           "title": "Email",
           "icon": "RiMailLine",
-          "url": "mailto:support@shipfire.com",
+          "url": "mailto:support@pdf-video.com",
           "target": "_self"
         }
       ]

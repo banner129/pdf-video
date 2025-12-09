@@ -3,10 +3,10 @@
   "theme": "light",
   "header": {
     "brand": {
-      "title": "ShipFire",
+      "title": "PDF-Video",
       "logo": {
         "src": "/logo.png",
-        "alt": "ShipFire"
+        "alt": "PDF-Video"
       },
       "url": "/"
     },
@@ -25,25 +25,23 @@
     "show_locale": true
   },
   "hero": {
-    "title": "ShipFire: 3 分钟内构建您的 SaaS 网站",
-    "highlight_text": "闪电般快速",
-    "description": "专为全球独立开发者设计的免费网站构建器。零代码，48 小时内发布产品，内置 AI 优化工具。",
+    "title": "AI 驱动的 PDF 转视频生成器：快速创建高清视频",
+    "highlight_text": "免费在线",
+    "description": "使用我们的 AI 驱动的转换器，只需 3 步即可将 PDF 转换为视频。5 页以内免费转换，无需注册。AI 自动生成旁白和动画，非常适合教学、社交媒体和营销。3 分钟内导出高清 MP4。",
     "announcement": {
-      "label": "限时",
-      "title": "永久免费",
-      "url": "/#features"
+      "label": "新功能",
+      "title": "批量处理支持"
     },
-  
     "images": [
       {
-        "src": "/imgs/features/1.png",
-        "alt": "ShipFire 网站构建示例 1",
-        "title": "构建您的 SaaS 网站"
+        "src": "/imgs/features/1.webp",
+        "alt": "PDF 转视频转换预览",
+        "title": "PDF 转视频示例"
       },
       {
-        "src": "/imgs/features/2.png",
-        "alt": "ShipFire 网站模板示例 2", 
-        "title": "50+ 专业模板"
+        "src": "/imgs/features/1.webp",
+        "alt": "PDF 页面转动画视频",
+        "title": "流畅的页面动画"
       }
     ],
     "layout": "left-image-right-content",
@@ -51,7 +49,7 @@
     "enable_carousel": true,
     "buttons": [
       {
-        "title": "立即免费构建 SaaS",
+        "title": "转换 PDF 为视频",
         "icon": "RiMagicLine",
         "url": "/#generator",
         "target": "_self",
@@ -65,18 +63,18 @@
       }
     ],
     "metrics": [
-      "免费",
-      "50,000+ 开发者信赖"
+      "50,000+ 创作者首选的 PDF 转视频工具",
+      "3 分钟内完成文档到视频的完整转换"
     ],
     "stats": [
       {
         "value": "50,000+",
-        "label": "涂鸦创作者",
+        "label": "活跃用户",
         "icon": "RiUserLine"
       },
       {
-        "value": "200,000+",
-        "label": "生成的涂鸦艺术作品",
+        "value": "1.2M+",
+        "label": "生成的视频",
         "icon": "RiImageLine"
       }
     ],
@@ -84,38 +82,38 @@
     "show_badge": true
   },
   "branding": {
-    "title": "由尖端AI技术驱动",
+    "title": "由先进的 AI 视频技术驱动",
     "items": [
       {
-        "title": "OpenAI",
+        "title": "AI 动画引擎",
         "image": {
           "src": "/imgs/logos/nextjs.svg",
-          "alt": "OpenAI"
+          "alt": "AI 动画"
         }
       },
       {
-        "title": "计算机视觉",
+        "title": "OCR 文字提取",
         "image": {
           "src": "/imgs/logos/react.svg",
-          "alt": "计算机视觉"
+          "alt": "OCR 处理"
         }
       },
       {
-        "title": "神经网络",
+        "title": "神经网络渲染",
         "image": {
           "src": "/imgs/logos/tailwindcss.svg",
-          "alt": "神经网络"
+          "alt": "神经网络渲染"
         }
       },
       {
-        "title": "机器学习",
+        "title": "语音合成",
         "image": {
           "src": "/imgs/logos/shadcn.svg",
-          "alt": "机器学习"
+          "alt": "AI 配音"
         }
       },
       {
-        "title": "云端处理",
+        "title": "云端视频处理",
         "image": {
           "src": "/imgs/logos/vercel.svg",
           "alt": "云端处理"
@@ -125,72 +123,72 @@
   },
   "introduce": {
     "name": "introduce",
-    "title": "什么是 ShipFire",
-    "label": "OVERVIEW",
-    "description": "一个面向全球开发者的 SaaS 网站构建平台，帮助您的产品快速触达全球用户。",
+    "title": "什么是 PDF 转视频？",
+    "label": "INTRODUCTION",
+    "description": "一个 AI 驱动的在线 PDF 转视频转换器，可即时将静态文档转换为带旁白的动态视频，无需技术技能，现在即可体验。",
     "image": {
       "src": "/imgs/features/1.webp"
     },
     "items": [
       {
-        "title": "ShipFire 免费网站构建器",
-        "description": "完全免费的在线构建系统—无需编码。它集成了关键模块，如支付系统、用户管理和分析。拖放界面让您专注于产品，而我们处理技术。只需3分钟即可上线。",
+        "title": "智能 PDF 转 AI 视频转换器",
+        "description": "上传任何 PDF 文档，我们的 AI 驱动的 PDF 转视频工具会自动分析内容结构，提取关键信息，并生成流畅的视频脚本和场景。非常适合教学材料、培训手册和营销内容，实现更高效的信息传递。5 页以内文档免费转换，更大文件提供灵活定价。",
         "icon": "RiDownloadLine",
         "image": {
           "src": "/imgs/features/1.webp",
-          "alt": "核心资源库"
+          "alt": "免费 PDF 转视频"
         },
         "buttons": [
           {
-            "title": "开始创作",
+            "title": "立即转换",
             "url": "/#generator",
             "variant": "default"
           },
           {
-            "title": "查看价格",
-            "url": "/#pricing",
+            "title": "查看功能",
+            "url": "/#feature",
             "variant": "outline"
           }
         ]
       },
       {
-        "title": "ShipFire AI 优化引擎",
-        "description": "内置 AI 自动分析用户行为。AI 助手提供实时改进建议，将转化率提升高达 40%。从文案到布局调整，您的网站始终保持最佳营销状态，无需雇佣团队。",
+        "title": "三步 PDF 转视频免费体验",
+        "description": "上传 PDF、选择 AI 配音、导出 MP4—整个 PDF 转视频过程不到 5 分钟。无需复杂的视频编辑软件。AI 自动处理时长、转场和字幕同步。社交媒体创作者和教师可以轻松使用我们的转换器。",
         "icon": "RiDownloadLine",
         "image": {
           "src": "/imgs/features/1.webp",
-          "alt": "涂鸦生成器 AI 优化街头艺术"
+          "alt": "AI 配音"
         },
         "buttons": [
           {
-            "title": "开始创作",
+            "title": "立即转换",
             "url": "/#generator",
             "variant": "default"
           },
           {
-            "title": "查看价格",
-            "url": "/#pricing",
+            "title": "查看示例",
+            "url": "/#feature",
             "variant": "outline"
           }
         ]
       },
       {
-        "title": "ShipFire 在线一键部署",
-        "description": "云托管确保 99.9% 的正常运行时间。全球 CDN 为全球用户提供快速访问。自动 SSL、域名绑定和 SEO 优化全部包含—零技术障碍，让创始人可以完全专注于产品。",
+        "title": "高效的 PDF 转视频生成器",
+        "description": "支持多语言配音和自定义语音克隆，自动生成高清视觉效果和动态图表。无论是 10 页的简报还是 50 页的讲义，我们的 PDF 转视频生成器都能将所有内容转换为连贯的视频内容，同时保留原始布局和视觉效果，适用于所有专业场景。",
         "icon": "RiDownloadLine",
         "image": {
           "src": "/imgs/features/1.webp",
-          "alt": "涂鸦生成器导出完成的作品"
+          "alt": "视频导出"
         },
         "buttons": [
           {
-            "title": "开始创作",
+            "title": "立即转换",
             "url": "/#generator",
             "variant": "default"
           },
           {
-            "title": "查看价格",
-            "url": "/#pricing",
+            "title": "查看输出选项",
+            "url": "/#feature",
             "variant": "outline"
           }
         ]
@@ -199,53 +197,53 @@
   },
   "benefit": {
     "name": "benefit",
-    "title": "为什么开发者选择 ShipFire",
+    "title": "为什么选择我们的 PDF 转视频工具？",
     "label": "Core Benefits",
-    "description": "零成本启动，具备专业级功能，让您的 SaaS 从第一天起就获胜。",
+    "description": "结合 AI 技术和灵活定价，为创作者和教育工作者提供最快、最专业的 PDF 转视频解决方案。",
     "items": [
       {
-        "title": "真正零成本",
-        "description": "ShipFire 100% 免费，无隐藏费用。在其他地方需要 $49–299/月的功能—无限页面、用户管理、支付集成、分析仪表板—在这里全部解锁。非常适合独立开发者，节省数千早期成本，让您可以投资于产品和营销。",
+        "title": "灵活的按需付费定价",
+        "description": "5 页以内的 PDF 完全免费转换，无需注册或登录即可体验完整的 PDF 转视频功能。超过 5 页的文档按页灵活计费，价格透明合理。无论您是偶尔使用的个人用户还是需要批量转换的企业客户，都能找到适合的方案，无需为不必要的功能付费。",
         "icon": "RiStarLine",
         "image": {
           "src": "/imgs/features/1.webp",
-          "alt": "真实的涂鸦生成器街头艺术预览"
+          "alt": "免费 PDF 工具"
         },
         "buttons": [
           {
-            "title": "免费创建",
+            "title": "免费转换",
             "url": "/#generator",
             "variant": "default"
           }
         ]
       },
       {
-        "title": "闪电般快速",
-        "description": "从创建账户到发布网站只需 3 分钟。从 50+ 个针对 SaaS 优化的模板中选择，自定义并发布。相比传统开发所需的 2–4 周，ShipFire 帮助您提前一个月进入市场。自动化工作流程处理更新和备份，让您可以专注于增长。",
+        "title": "3 分钟超快生成",
+        "description": "传统视频制作需要数小时甚至数天。我们的 AI 驱动的 PDF 转视频引擎将这一过程压缩到 3 分钟以内。上传后立即开始处理，自动识别文档结构，生成场景布局，匹配背景音乐和 AI 配音。社交媒体创作者可以快速批量制作内容，而教师可以在课前 10 分钟准备教学视频。",
         "icon": "RiGiftLine",
         "image": {
           "src": "/imgs/features/1.webp",
-          "alt": "涂鸦生成器免费访问界面"
+          "alt": "简单的视频创建"
         },
         "buttons": [
           {
-            "title": "免费创建",
+            "title": "免费转换",
             "url": "/#generator",
             "variant": "default"
           }
         ]
       },
       {
-        "title": "为全球扩张优化",
-        "description": "深刻理解面向全球的开发者的需求。支持 20+ 种语言，具有自动翻译、多币种支付和符合 GDPR 的数据处理。集成的 Google Analytics 和 Meta Pixel 帮助您跟踪海外表现。在 15 个地区拥有服务器，美国和欧洲的用户体验接近本地速度。",
+        "title": "专业高清输出",
+        "description": "输出 4K 分辨率视频，支持多种宽高比（16:9/9:16/1:1），实现跨平台兼容。AI 自动优化文字清晰度和视觉层次，生成具有流畅转场、专业配音和准确字幕的视频。无论是 YouTube 教育、Instagram 推广还是企业培训，我们的 PDF 转视频转换器都能提供一流的视觉质量。",
         "icon": "RiSpeedLine",
         "image": {
           "src": "/imgs/features/1.webp",
-          "alt": "涂鸦生成器简单工作流程截图"
+          "alt": "使用场景"
         },
         "buttons": [
           {
-            "title": "免费创建",
+            "title": "免费转换",
             "url": "/#generator",
             "variant": "default"
           }
@@ -256,22 +254,22 @@
   "usage": {
     "name": "usage",
     "label": "HOW TO USE",
-    "title": "如何构建 ShipFire 网站",
-    "description": "通过三个简单步骤创建专业网站—完全在线，仅需180秒。",
+    "title": "如何使用 PDF 转视频转换器？",
+    "description": "三个简单步骤完成 PDF 转视频转换：上传文档、AI 自动处理、导出和分享—无需视频编辑经验，现在开始。",
     "items": [
       {
-        "title": "选择模板",
-        "description": "浏览50+精心制作的SaaS模板，涵盖工具、服务、社区等。每个模板都针对转化进行了优化—只需选择并开始自定义。",
+        "title": "上传 PDF 文档",
+        "description": "拖放或点击上传您的 PDF 文件。支持课件、报告、手册和各种文档格式。5 页以内文档免费 PDF 转视频，支持最大 50MB 的文件。",
         "icon": "RiEditLine"
       },
       {
-        "title": "自定义您的内容",
-        "description": "使用 ShipFire 在线编辑器修改文本、图像和颜色。AI助手根据您的产品类型建议文案和布局。即时预览更改。",
+        "title": "AI 智能视频生成",
+        "description": "选择 AI 配音语言和语音风格，然后一键生成。系统自动提取内容、创建场景、添加动画效果和背景音乐—无需手动编辑。",
         "icon": "RiPaletteLine"
       },
       {
-        "title": "一键发布",
-        "description": "点击发布即可自动配置域名绑定、SSL证书和CDN部署。您的网站立即上线，更新同样轻松。",
+        "title": "导出和分享",
+        "description": "预览生成的视频，确认准确性，然后导出为 MP4 格式。直接分享到 YouTube、社交媒体，或嵌入在线课程平台。",
         "icon": "RiSettings3Line"
       }
     ]
@@ -279,37 +277,37 @@
   "feature": {
     "name": "feature",
     "label": "FEATURES",
-    "title": "ShipFire 核心功能概览",
-    "description": "企业级功能，为独立开发者简化，推动您的产品增长。",
+    "title": "强大功能让 PDF 转视频更简单",
+    "description": "集成多种 AI 技术—从内容分析到视频输出，每个阶段都经过优化，确保最佳转换质量和用户体验。",
     "items": [
       {
-        "title": "可视化编辑器",
-        "description": "拖放界面，实时预览。50+ 组件库让您无需设计技能即可创建自定义布局。",
+        "title": "多语言 AI 配音",
+        "description": "提供 40+ 种语言和口音选项，具有自然流畅的 AI 语音合成。可上传您自己的音频文件实现个性化配音。",
         "icon": "RiEyeLine"
       },
       {
-        "title": "用户认证系统",
-        "description": "支持邮箱、Google、GitHub 等。自动管理权限和订阅层级。内置试用和升级流程将留存率提升 35%。",
+        "title": "自动场景生成",
+        "description": "AI 智能识别文档结构，自动创建视频场景和转场效果，同时保持清晰的内容逻辑和流畅的观看体验。",
         "icon": "RiHdLine"
       },
       {
-        "title": "支付集成",
-        "description": "与 Stripe 和 PayPal 集成。处理订阅计费、发票、退款等—让您摆脱后端复杂性。",
+        "title": "高清视觉优化",
+        "description": "自动提取图表、图像和文字，优化显示效果。输出 4K 分辨率视频，确保文字清晰可读，视觉效果专业精美。",
         "icon": "RiLayoutLine"
       },
       {
-        "title": "分析仪表板",
-        "description": "实时跟踪用户行为、漏斗和收入趋势。清晰的可视化图表帮助您发现增长机会，将 ROI 提升高达 50%。",
+        "title": "批量处理支持",
+        "description": "一次上传多个 PDF 文件进行批量转换，大幅提高工作效率。非常适合教师批量创建课程视频或营销团队快速制作内容。",
         "icon": "RiStarSLine"
       },
       {
-        "title": "自动 SEO 优化",
-        "description": "自动生成标题、描述和 schema 标记。自动提交到搜索引擎并优化加载速度以获得更高的 Google 排名。",
+        "title": "多平台格式兼容",
+        "description": "支持横屏、竖屏和方形输出格式，完美适配 YouTube、TikTok、Instagram 等主要平台的规格要求。",
         "icon": "RiCloudLine"
       },
       {
-        "title": "电子邮件营销工具",
-        "description": "内置电子邮件发送，用于欢迎消息、产品更新、营销活动等。A/B 测试帮助您发现高性能文案，将打开率提高 45%。",
+        "title": "零技术门槛",
+        "description": "无需下载软件或复杂操作—直接通过浏览器访问。简洁直观的界面让初学者在 3 分钟内完成第一个视频。",
         "icon": "RiShareLine"
       }
     ]
@@ -317,8 +315,8 @@
   "stats": {
     "name": "stats",
     "label": "统计",
-    "title": "开发者信赖 ShipFire",
-    "description": "在全球范围内获得专业品质的网站构建和闪电般快速的部署。",
+    "title": "用户信赖 PDF-Video",
+    "description": "在全球范围内获得专业品质的视频转换和闪电般快速的处理。",
     "icon": "RiHeartLine",
     "items": [
       {
@@ -327,70 +325,70 @@
         "description": "创作者"
       },
       {
-        "title": "生成图像",
+        "title": "生成视频",
         "label": "89,432+",
-        "description": "微缩作品"
+        "description": "视频作品"
       },
       {
         "title": "处理速度",
-        "label": "<10",
-        "description": "秒"
+        "label": "<3",
+        "description": "分钟"
       }
     ]
   },
   "testimonial": {
     "name": "testimonial",
     "label": "推荐",
-    "title": "开发者对 ShipFire 的评价",
-    "description": "看看全球开发者如何使用 ShipFire 加速他们的业务。",
+    "title": "用户对我们的 PDF 转视频的评价",
+    "description": "来自全球 50,000+ 用户的真实反馈和使用体验。",
     "icon": "RiThumbUpLine",
     "items": [
       {
-        "title": "Leo",
-        "label": "街头服饰品牌主",
-        "description": "我曾经花三周时间构建一个网站，只获得了不到 2% 的转化率。使用 ShipFire 免费版，我在 3 小时内重建了一切，达到了 8.5%。现在我的所有时间都用于产品开发。",
+        "title": "Sarah Chen",
+        "label": "高中物理教师",
+        "description": "我经常需要将课件转换为视频供学生预习。5 页以内测验的免费 PDF 转视频非常方便，较长讲义的定价也很合理。以前录制一个课堂视频需要 2 小时—现在使用这个转换器只需 5 分钟。学生们说效果比 PPT 好得多。",
         "image": {
           "src": "/imgs/users/1.png"
         }
       },
       {
-        "title": "Mei",
-        "label": "社交媒体经理",
-        "description": "我们的团队没有前端开发人员，Webflow 太贵了。改用 ShipFire 每年为我们节省了 $3,600，AI 优化识别了 5 个问题，使我们的 MRR 提升了 38%。",
+        "title": "Mark Rivera",
+        "label": "YouTube 创作者",
+        "description": "作为社交媒体创作者，我需要快速制作内容。这个 PDF 转视频转换器让我将文章转换为视频发布—观看量增加了 62%。透明的定价和小文档的免费试用非常用户友好。PDF 转视频的质量非常出色。",
         "image": {
           "src": "/imgs/users/2.png"
         }
       },
       {
-        "title": "Robin",
-        "label": "视觉设计讲师",
-        "description": "AI 建议是我的最爱。上周它推荐了一个定价页面调整—应用后，我们的付费转化率从 4% 跃升至 6.2%，每月额外产生 $2,000。",
+        "title": "李明",
+        "label": "企业培训师",
+        "description": "我们公司的培训手册有 80+ 页。按页定价比雇人制作视频便宜得多。使用这个 PDF 转视频 AI 工具转换为视频，新员工入职效率提高了 40%。AI 配音自然，字幕准确。",
         "image": {
           "src": "/imgs/users/3.png"
         }
       },
       {
-        "title": "艾玛·泰勒",
-        "label": "内容创作者",
-        "description": "我使用 ShipFire 为客户构建了 12 个落地页，每个大约 20 分钟。内置的 A/B 测试和分析简化了优化—客户 ROI 提高了 55%。",
-        "image": {
-          "src": "/imgs/users/6.png"
-        }
-      },
-      {
-        "title": "卡洛斯·马丁内斯",
-        "label": "T恤设计师",
-        "description": "我销售在线课程，WordPress 插件总是导致冲突。ShipFire 使我的网站速度提高了三倍，并使结账更加顺畅。退款下降了 70%—学生们喜欢这种体验。",
+        "title": "Emma Watson",
+        "label": "营销经理",
+        "description": "我使用这个工具将产品手册的 PDF 转换为促销视频。短文档免费非常适合测试。确认效果良好后，为长文档付费也很值得。客户更喜欢观看视频—询盘转化率提高了 35%。",
         "image": {
           "src": "/imgs/users/4.png"
         }
       },
       {
-        "title": "Jasmine Lee",
-        "label": "活动组织者",
-        "description": "作为开发者，我不认为需要构建器，但 ShipFire 是免费的且功能强大。我用它验证了一个新的创业想法：从概念到上线 MVP 仅用了 4 小时。",
+        "title": "陈晓",
+        "label": "在线课程讲师",
+        "description": "这个 PDF 转视频生成器帮助我快速将讲义转换为视频课程。批量处理非常省时—上传 10 个文件同时转换。输出的 4K 视频质量完全符合专业标准。",
         "image": {
           "src": "/imgs/users/5.png"
+        }
+      },
+      {
+        "title": "James Kim",
+        "label": "独立博主",
+        "description": "从 PDF 转视频 AI 转换到发布只需几分钟。我现在每天可以制作 3-4 个高质量视频内容。多平台格式支持意味着我不需要重新编辑—使用这个出色的转换器，工作效率提高了 3 倍。",
+        "image": {
+          "src": "/imgs/users/6.png"
         }
       }
     ]
@@ -399,7 +397,7 @@
     "name": "faq",
     "label": "FAQ",
     "title": "常见问题",
-    "description": "找不到问题的答案？请联系我们获取帮助。",
+    "description": "查找关于 PDF 转视频工具的常见问题的详细答案。",
     "buttons": [
       {
         "title": "联系我们",
@@ -409,38 +407,58 @@
     ],
     "items": [
       {
-        "title": "ShipFire 免费吗？",
-        "description": "是的。ShipFire 提供永久免费计划，包括无限页面、用户管理、支付集成、分析等。无需信用卡，无隐藏费用。允许完全商业使用。"
+        "title": "PDF 转视频转换器如何定价？",
+        "description": "5 页以内的 PDF 完全免费转换，无需注册或登录。超过 5 页的文档按页灵活计费，价格透明。所有用户都可以先免费体验基本的 PDF 转视频功能，确认满意后再选择为转换更长文档付费。"
       },
       {
-        "title": "ShipFire Online 支持哪些平台？",
-        "description": "支持自定义域名、Vercel、Netlify 和其他主要托管平台。提供免费的 *.shipfire.app 子域名用于测试。SSL 和 CDN 自动配置以实现全球性能。"
+        "title": "支持哪些 PDF 格式和文件大小？",
+        "description": "支持所有标准 PDF 文档，包括课件、报告、手册和电子书。单个文件最大 50MB，无页数限制。建议使用可选中文字的 PDF 以获得最佳 PDF 转视频转换效果，扫描版 PDF 也可以处理。"
       },
       {
-        "title": "我可以在没有技术经验的情况下使用 ShipFire 吗？",
-        "description": "绝对可以。ShipFire 专为非技术用户设计，具有拖放编辑器、教程和提供实时指导的 AI 助手。数千名初学者已构建网站，平均学习时间不到 30 分钟。"
+        "title": "使用 PDF 转视频免费版需要技术背景吗？",
+        "description": "完全不需要。界面简洁直观—只需上传、选择配音、点击生成三个步骤。无需学习视频编辑软件。新用户平均 3 分钟即可完成第一次 PDF 转视频转换，全程自动化处理。"
       },
       {
-        "title": "我可以将 ShipFire 网站用于商业目的吗？",
-        "description": "可以。使用 ShipFire 构建的网站完全可用于商业，包括销售产品、订阅和广告。没有许可限制或收入分成。"
+        "title": "生成的视频可以用于商业用途吗？",
+        "description": "可以。通过我们的 PDF 转视频工具生成的所有视频都享有完全商业使用权。您可以用于 YouTube 变现、企业培训、付费课程、广告营销或任何商业场景—免费版和付费版享有相同权利。"
       },
       {
-        "title": "我可以导出或迁移我的 ShipFire 网站吗？",
-        "description": "可以，您可以导出完整的网站代码，包括 HTML、CSS 和配置文件。您可以随时迁移到自己的服务器。用户和订单数据也可以导出为 CSV 以实现完全的数据所有权。"
+        "title": "PDF 转视频转换需要多长时间？",
+        "description": "大多数 PDF 在 3 分钟内完成转换。具体时间取决于文档页数和复杂度：5 页文档约 2 分钟，20 页文档约 5 分钟，50 页文档约 8 分钟。AI 自动处理所有场景、配音和动画，完成您的 PDF 转视频输出。"
       },
       {
-        "title": "ShipFire 的 AI 功能可以做什么？",
-        "description": "AI 助手优化文案，建议布局改进，分析用户行为，并预测转化瓶颈。它支持 SEO 优化、A/B 测试生成和电子邮件内容创建—基于 50,000+ 网站的数据训练，推荐准确率达 92%。"
+        "title": "这个 PDF 转视频 AI 支持哪些配音语言？",
+        "description": "支持 40+ 种语言和多种口音，包括英语、中文、西班牙语、法语等主流语言。可选择男声或女声，AI 配音自然流畅。还支持上传您自己的录音或使用语音克隆功能。"
+      },
+      {
+        "title": "我可以自定义视频风格和输出格式吗？",
+        "description": "可以。支持背景音乐选择、场景时长调整和文字显示修改。输出格式包括横屏（16:9）、竖屏（9:16）和方形（1:1）。根据需要从我们的 PDF 转视频转换器导出 MP4 文件，适配不同平台。"
+      },
+      {
+        "title": "PDF 转视频生成器最适合处理什么内容？",
+        "description": "结构清晰的文档转换效果最好，如演示文稿、培训材料、教学笔记和产品手册。包含图表、图像和标题的 PDF 使用我们的 PDF 转视频工具转换为视频时视觉效果更丰富。纯文本文档也转换良好—建议先用 5 页免费选项测试。"
+      },
+      {
+        "title": "PDF 转视频与传统视频编辑软件有什么区别？",
+        "description": "传统视频编辑器需要手动时间轴编辑、场景转场和技术技能。我们的 PDF 转视频转换器自动化整个流程—AI 处理页面动画、文字提取、配音同步和场景生成。您只需上传和导出。它专为文档转视频设计，比手动编辑 PDF 内容快 10 倍。"
+      },
+      {
+        "title": "如何提高我的 PDF 转视频转换质量？",
+        "description": "为了获得最佳 PDF 转视频转换效果，请使用高分辨率、字体清晰、布局良好的 PDF。包含图表和图像等视觉元素以增强参与度。选择与您的内容风格匹配的 AI 语音语调。先用免费的 5 页选项测试，优化设置后再转换更长文档。"
+      },
+      {
+        "title": "PDF 转视频支持协作团队工作流吗？",
+        "description": "支持。多个团队成员可以同时使用 PDF 转视频平台。以一致的格式导出视频，保持品牌统一。批量处理功能允许团队大规模转换多个培训手册、销售演示或课程材料。所有视频保持相同的专业质量标准，非常适合企业内容生产工作流。"
       }
     ]
   },
   "cta": {
     "name": "cta",
-    "title": "今天就开始使用 ShipFire 构建",
-    "description": "无需信用卡。无需技术技能。3 分钟内构建专业网站。加入 50,000+ 全球开发者，触达全球用户。所有核心功能永久免费。",
+    "title": "立即体验 PDF 转视频—3 分钟内创建专业视频",
+    "description": "5 页以内文档免费 PDF 转视频，无需注册，无需下载。上传您的 PDF 文档，让 AI 为您生成高清视频。现在开始，体验最快的文档转视频解决方案！",
     "buttons": [
       {
-        "title": "立即开始创建",
+        "title": "转换 PDF 为视频",
         "icon": "RiGiftLine",
         "url": "/#generator",
         "target": "_self",
@@ -451,28 +469,33 @@
   "footer": {
     "name": "footer",
     "brand": {
-      "title": "ShipFire",
-      "description": "ShipFire 是一个面向全球独立开发者的 SaaS 网站构建平台。零代码，48 小时内发布产品，内置 AI 优化工具。",
+      "title": "PDF-Video",
+      "description": "一个 AI 驱动的在线工具，可将 PDF 文档转换为高质量视频，包含动画、AI 旁白和多格式导出。",
       "logo": {
         "src": "/logo.png",
-        "alt": "ShipFire"
+        "alt": "PDF-Video"
       },
       "url": "/"
     },
-    "copyright": "© 2025 • ShipFire. 版权所有。",
+    "copyright": "© 2025 • PDF-Video. 版权所有。",
     "nav": {
       "items": [
         {
-          "title": "关于",
-          "url": "/about"
+          "title": "产品",
+          "children": []
         },
         {
           "title": "资源",
-          "url": "/#features"
+          "children": [
+            {
+              "title": "FAQ",
+              "url": "/#faq"
+            }
+          ]
         },
         {
-          "title": "朋友",
-          "url": "/#usage"
+          "title": "社区",
+          "children": []
         }
       ]
     },
@@ -481,25 +504,25 @@
         {
           "title": "X",
           "icon": "RiTwitterXFill",
-          "url": "https://x.com/shipfire",
+          "url": "https://x.com/",
           "target": "_blank"
         },
         {
           "title": "Github",
           "icon": "RiGithubFill",
-          "url": "https://github.com/shipfire",
+          "url": "https://github.com/",
           "target": "_blank"
         },
         {
           "title": "Discord",
           "icon": "RiDiscordFill",
-          "url": "https://discord.gg/shipfire",
+          "url": "https://discord.gg/",
           "target": "_blank"
         },
         {
           "title": "邮箱",
           "icon": "RiMailLine",
-          "url": "mailto:support@shipfire.com",
+          "url": "mailto:support@pdf-video.com",
           "target": "_self"
         }
       ]
