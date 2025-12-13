@@ -491,7 +491,69 @@
         }
       ]
     },
-    "badges": [],
+    "badges": [
+      {
+        "title": "PDF-Video - Featured on Startup Fame",
+        "url": "https://startupfa.me/s/pdf-video?utm_source=pdfvideo.org",
+        "target": "_blank",
+        "image": {
+          "src": "https://startupfa.me/badges/featured-badge.webp",
+          "alt": "PDF-Video - Featured on Startup Fame",
+          "width": 171,
+          "height": 54
+        }
+      },
+      {
+        "title": "Listed on Turbo0",
+        "url": "https://turbo0.com/item/pdf-video",
+        "target": "_blank",
+        "image": {
+          "src": "https://img.turbo0.com/badge-listed-light.svg",
+          "alt": "Listed on Turbo0",
+          "height": 54
+        }
+      },
+      {
+        "title": "反向链接描述",
+        "url": "https://www.seewhatnewai.com",
+        "target": "_blank",
+        "image": {
+          "src": "",
+          "alt": "反向链接描述",
+          "height": 54
+        }
+      },
+      {
+        "title": "AI Nav Site",
+        "url": "https://navs.site",
+        "target": "_blank",
+        "image": {
+          "src": "",
+          "alt": "AI Sites | 2025",
+          "height": 54
+        }
+      },
+      {
+        "title": "Featured on Days Launch",
+        "url": "https://dayslaunch.com",
+        "target": "_blank",
+        "image": {
+          "src": "https://dayslaunch.com/badages-awards.svg",
+          "alt": "Featured on Days Launch",
+          "height": 54
+        }
+      },
+      {
+        "title": "Featured on The One Startup",
+        "url": "https://theonestartup.com",
+        "target": "_blank",
+        "image": {
+          "src": "https://theonestartup.com/badages-awards.svg",
+          "alt": "Featured on The One Startup",
+          "height": 54
+        }
+      }
+    ],
     "agreement": {
       "items": [
         {
